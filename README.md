@@ -1,2 +1,2 @@
-# google-clone
-Google search page clone
+# Google Search Clone
+A simple Google search page clone.
